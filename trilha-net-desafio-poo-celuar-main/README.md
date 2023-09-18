@@ -1,7 +1,8 @@
 # DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
-
-https://www.linkedin.com/in/lucas-da-paz-laranjeira-leite-822072200/
+<br>
+<a href="https://www.dio.me"> DIO </a>
+<br>
+<a href="https://www.linkedin.com/in/lucas-da-paz-laranjeira-leite-822072200/"> Linkedin </a>
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
