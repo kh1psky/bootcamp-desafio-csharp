@@ -17,7 +17,7 @@ namespace DesafioPOO
 
             Console.WriteLine("Smartphone Iphone:");
             iPhone iphone = new iPhone("67890", "iPhone 12", "987654321", 128);
-            iphone.Ligar();
+            iphone.ReceberLigacao();
             iphone.InstalarAplicativo("Instagram");
         }
     }
