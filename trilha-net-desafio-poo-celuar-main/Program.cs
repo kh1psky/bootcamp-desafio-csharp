@@ -8,7 +8,7 @@ namespace DesafioPOO
         static void Main(string[] args)
         {
             Console.WriteLine("Smartphone Nokia:");
-            Nokia nokia = new Nokia("12345", "Nokia 9", "123456789", 64);
+            Nokia nokia = new Nokia("12345", "Nokia 9", "927840128", 64);
             nokia.Ligar();
             nokia.InstalarAplicativo("WhatsApp");
 
@@ -16,7 +16,7 @@ namespace DesafioPOO
             //Iphone
 
             Console.WriteLine("Smartphone Iphone:");
-            iPhone iphone = new iPhone("67890", "iPhone 12", "987654321", 128);
+            iPhone iphone = new iPhone("67890", "iPhone 12", "984726489", 128);
             iphone.ReceberLigacao();
             iphone.InstalarAplicativo("Instagram");
         }
